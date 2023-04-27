@@ -1,5 +1,7 @@
 
-<p align="center">Portfolio</p>
+<p align="center">
+    <img src="/portfolio.jpg" alt="logo" width="700px">
+</p>
 
 ## About
 
