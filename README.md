@@ -1,5 +1,10 @@
 
-<p style="text-align:center">Portfolio</p>
-# Назва проекту
+<p align="center">Portfolio</p>
 
-Короткий опис проекту
+## About
+
+about text
+
+## Documentation
+
+documentation
