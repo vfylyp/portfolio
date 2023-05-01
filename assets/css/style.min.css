@@ -82,9 +82,7 @@ strong {
 }
 
 .pf-blur-bg {
-  background: rgba(255, 255, 255, 0.231372549);
-  -webkit-backdrop-filter: blur(103.5px);
-          backdrop-filter: blur(103.5px);
+  background: rgba(0, 0, 0, 0.6980392157);
 }
 
 .pf-d-flex {
