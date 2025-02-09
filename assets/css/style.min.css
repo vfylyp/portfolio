@@ -274,6 +274,13 @@ section {
   text-align: center;
   padding: 15px 0;
 }
+.pf-skills-section .pf-skills-items .pf-skills-item:hover {
+  -webkit-transform: translateY(-10px);
+      -ms-transform: translateY(-10px);
+          transform: translateY(-10px);
+  -webkit-transition: 0.2s ease;
+  transition: 0.2s ease;
+}
 .pf-skills-section .pf-skills-items .pf-skills-item img {
   height: 100%;
   width: 100%;
